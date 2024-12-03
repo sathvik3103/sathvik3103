@@ -1,5 +1,4 @@
 ## Hi there 👋
-I’m currently learning LLMs, GenAI and MLops 
 - 🌱 I’m currently learning LLMs, GenAI and MLops 
 - 📫 How to reach me: divilisathvik@gmail.com
 - 😄 Pronouns: he/him
