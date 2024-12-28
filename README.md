@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning LLMs, GenAI and MLops 
 - 📫 How to reach me: divilisathvik@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love Python, DataScience/AI, Movies, Cricket, F1 Racing and Psychology!
+- ⚡ Fun fact: I love Python, Data Science/AI, Movies, Cricket, F1 Racing and Psychology!
   
 <!--
 **sathvik3103/sathvik3103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
